@@ -29,7 +29,7 @@ I am able to:
  
 <br>
 
-### skills
+### SKILLS
 ---
  
 What I will be bringing to the table is:
@@ -47,7 +47,7 @@ What I will be bringing to the table is:
   - R
   <br>
   
- ### contact information
+ ### CONTACT INFORMATION
  ---
  * [linkedin](linkedin.com/in/ann-nkem-enyi-441529171/)
 
